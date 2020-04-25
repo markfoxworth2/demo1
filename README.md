@@ -2,6 +2,8 @@
 
 This is where the practice happens
 
+![JeepImage](https://cdn.motor1.com/images/mgl/kJWYB/s1/jeep-wrangler-willys-edition.jpg)
+
 ## Table of Contents
 
 [Code](https://github.com/markfoxworth2/demo1/tree/master/code)
